@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VishalYdv7
-- 👀 I’m interested in coding & space exploration.
+- 👀 I’m interested in problem solving & space exploration.
 - 🌱 I’m always learning something.
 
 <!---
